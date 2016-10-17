@@ -1,0 +1,26 @@
+[
+    {
+        "_id" : ObjectId("5803893e2ad718ac46bc6b59"),
+        "uploadDate": ISODate("2013-03-06T00:34:26.949Z"),
+        "length": 1000,
+        "md5": "02fb7cae77c617132f149dfd82ed91c1",
+        "filename": "first.jpg",
+        "content": "iVBORw0KGgoAAAANSUhEUgAAAO8AAAB3CAIAAABkJ4DAAAAAA3NCSVQICAjb4U/gAAAAEH..."
+    },
+    {
+        "_id" : ObjectId("5803bfb62ad718ac46bc6b5b"),
+        "uploadDate": ISODate("2014-03-06T00:34:26.949Z"),
+        "length": 5000,
+        "md5": "02fb7cae77c617132f149dfd82ed91c1",
+        "filename": "second.jpg",
+        "content": "iVBORw0KGgoAAAANSUhEUgAAAO8AAAB3CAIAAABkJ4DAAAAAA3NCSVQICAjb4U/gAAAAEH..."
+    },
+    {
+        "_id" : ObjectId("5803bfb62ad718ac46bc6b5c"),
+        "uploadDate": ISODate("2015-03-06T00:34:26.949Z"),
+        "length": 20000,
+        "md5": "02fb7cae77c617132f149dfd82ed91c1",
+        "filename": "third.jpg",
+        "content": "iVBORw0KGgoAAAANSUhEUgAAAO8AAAB3CAIAAABkJ4DAAAAAA3NCSVQICAjb4U/gAAAAEH..."
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "_id": ObjectId("58037891a04ec7e476b0c037"),
+        "name": "Sunit Parekh",
+        "dateOfBirth": ISODate("1977-08-07T00:00:00.000Z"),
+        "email": "parekh.sunit@gmail.com",
+        "gender": "Male",
+        "pictures": [
+            {
+                "active": true,
+                "pictureId": ObjectId("5803893e2ad718ac46bc6b59")
+            },
+            {
+                "active": false,
+                "pictureId": ObjectId("5803bfb62ad718ac46bc6b5b")
+            }
+        ],
+        "storeCredits": 5000
+    },
+    {
+        "_id": ObjectId("580378f8a04ec7e476b0c038"),
+        "name": "Vidhir Kaup",
+        "dateOfBirth": ISODate("1976-11-04T00:00:00.000Z"),
+        "email": "vidhir.kaup@gmail.com",
+        "storeCredits": 1000,
+        "pictures": [
+            {
+                "active": false,
+                "pictureId": ObjectId("5803bfb62ad718ac46bc6b5c")
+            }
+        ]
+    },
+    {
+        "_id": ObjectId("580378f8a04ec7e476b0c039"),
+        "name": "Unnat Gupta",
+        "dateOfBirth": ISODate("1982-05-23T00:00:00.000Z"),
+        "email": "unnatgupta@gmail.com",
+        "gender": "Male"
+    },
+    {
+        "_id" : ObjectId("5803a92a2ad718ac46bc6b5a"),
+        "name": "Ankita Lutra",
+        "dateOfBirth": ISODate("1991-03-12T00:00:00.000Z"),
+        "email": "ankita@gmail.com",
+        "gender": "Female",
+        "storeCredits": 25000
+    }
+]
